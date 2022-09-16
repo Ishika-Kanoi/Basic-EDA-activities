@@ -1,2 +1,3 @@
-# Exploring-Data-Science
-This repository will have projects related to Data-Science and Analytics. 
+# Exploratory Data Analysis
+This repository will have initial projects related to Data Analytics. 
+These are basics just to be comfortable with Python and Data Analytics
